@@ -109,5 +109,5 @@
 
 	- Clean and intuitive layout with a focus on user experience.
 
-- Each function should be given an appropriate segment and the app. 
+- Each function should be given an appropriate segment in the app. 
 
